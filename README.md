@@ -4,7 +4,7 @@ PINOUT
 sen_De -> A1
 sen_Iz -> A5
 
-Echo   -> A0
+Echo   -> A0 --Ultrasonidos
 Start  -> B13 (Boton arranque)
 PWM_Iz -> B7
 In2_De -> B0
